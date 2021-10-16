@@ -1,21 +1,3 @@
-Skip to content
- 
-Search…
-All gists
-Back to GitHub
-@Roneet904 
-@LouWii
-LouWii/iptables-config-script
-Last active 3 months ago • Report abuse
-14
-7
- Code
- Revisions 5
- Stars 14
- Forks 7
-<script src="https://gist.github.com/LouWii/9626480.js"></script>
-Bash script to configure iptables for a web server. Some rules can be removed depending on used services.
-iptables-config-script
 #!/bin/sh
 
 # Empty all rules
